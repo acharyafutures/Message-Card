@@ -1,6 +1,6 @@
 # Message_Card
 
-A new Flutter project.
+My first Flutter project that I tried to make by learning from YouTube.
 
 ## Getting Started
 
